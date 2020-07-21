@@ -1,2 +1,2 @@
-# data_science_projects
+# data-science-projects
 All my data science mini-projects and hackathons
